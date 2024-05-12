@@ -56,3 +56,11 @@ body{
     border: 2px solid lightseagreen;
     background-color: lightblue;
 }
+.bday{
+    font-size: 20px;
+    font-weight: bold;
+}
+.your{
+    float: left;
+    width: 200px;
+}
